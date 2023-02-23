@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeschkeCode, live in munich, germany
-- 👀 I’m interested in Frontend-Webdevelopment
-- 🌱 I’m currently learning ...HtML, CSS, JavaScript
+- 👨🏻‍💻 I’m highly interested IOS/Mac-Development 
+- 🌱 I’m currently learning ...HtML, CSS, JavaScript, SWIFT
 
 
 <!---
